@@ -18,7 +18,4 @@ public class Stock {
 		return maxProfit;
 	}
 
-	// Read more:https://
-	// www.java67.com/2022/06/how-to-know-best-time-to-buy-and-sell.html#ixzz7pjrZoJcH
-
 }
